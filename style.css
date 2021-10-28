@@ -1,0 +1,22 @@
+/* Comments in css */
+body{
+	padding-left: 50px;
+}
+p{
+	color: yellow;
+	/*target all p tags*/
+}
+.para1{
+	color: red;
+	/* for extra pixels, put padding-left: NUMBERpx; */
+}
+.para2{
+	color: blue;
+}
+
+span{
+	color: teal;
+	background-color: yellow;
+	text-decoration: underline;
+	text-shadow: 2px 2px black;
+}

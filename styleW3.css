@@ -1,0 +1,22 @@
+/* test
+white #ffffff
+black #000
+*/
+
+body{
+	/* background-color: red; */
+	color: red;
+	background-image: url("'02d6c8cf.png'");
+	/* background-repeat: no-repeat; not repeated */
+	background-attachment: fixed; /* stays put on page */
+	background-position: center; /* centered and by default at the top */
+}
+
+h1{
+	color: black;
+}
+
+li >a{
+	color: orange;
+}
+

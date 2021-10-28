@@ -1,0 +1,26 @@
+body{
+	background-color: #76D7C4;
+}
+#wrapper{
+	width: 90%;
+	height: 600px;
+	margin: 0 auto;
+}
+.head{
+	height: 50px;
+	background-color: #8E44AD;
+	text-align: center;
+}
+.education{
+	background-image: url("images/'02d6c8cf.png'");
+}
+td, th{
+	border: 2px solid black;
+	padding: 50px;
+	text-align: center;
+	color: white;
+	float: left:
+}
+h3{
+	color: white;
+}

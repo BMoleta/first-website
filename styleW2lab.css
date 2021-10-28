@@ -1,0 +1,17 @@
+h1, h3{
+	font-family: 'Akronim', cursive;
+}
+
+td{
+	border: 2px solid black;
+	padding: 50px;
+	text-align: center;
+}
+
+table{
+	font-family: 'Italianno', cursive;
+}
+
+p{
+	font-family: 'Italianno', cursive;
+}

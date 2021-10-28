@@ -1,0 +1,32 @@
+#wrapper{
+	width: 90%;
+	height: 600px;
+	margin: 0 auto;
+}
+.head{
+	height: 50px;
+	background-color: #CCD1D1;
+	text-align: center;
+}
+.sidebar{
+	width: 15%;
+	float: left;
+	background-color: #7ED86D;
+	height: 550px;
+}
+.main{
+	width: 85%;
+	float: right;
+	height: 550px;
+	background-image: url("images/'02d6c8cf.png'");
+}
+.right{
+	float: right;
+	position: relative;
+	color: white;
+	padding: 15px;
+}
+.left{
+	color: white;
+	padding: 15px;
+}
