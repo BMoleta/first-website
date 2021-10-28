@@ -5,14 +5,12 @@ body{
 	width: 90%;
 	height: 600px;
 	margin: 0 auto;
+	background-image: url("images/'02d6c8cf.png'");
 }
 .head{
 	height: 50px;
 	background-color: #8E44AD;
 	text-align: center;
-}
-.education{
-	background-image: url("images/'02d6c8cf.png'");
 }
 td, th{
 	border: 2px solid black;
@@ -23,4 +21,13 @@ td, th{
 }
 h3{
 	color: white;
+}
+.skills{
+	width: 15%;
+	float: left;
+	background-image: url("images/'f90f7df2.png'");
+	height: 550px;
+}
+h2{
+	text-align: center;
 }
